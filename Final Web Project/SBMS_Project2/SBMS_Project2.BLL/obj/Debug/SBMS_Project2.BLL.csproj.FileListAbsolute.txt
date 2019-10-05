@@ -1,0 +1,209 @@
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.BLL.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Models.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.Repository.dll.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\bin\Debug\EntityFramework.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csprojAssemblyReference.cache
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CoreCompileInputs.cache
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.csproj.CopyComplete
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.BLL\obj\Debug\SBMS_Project2.BLL.pdb

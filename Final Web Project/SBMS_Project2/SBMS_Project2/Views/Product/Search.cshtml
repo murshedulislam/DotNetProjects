@@ -1,0 +1,67 @@
+﻿@model SBMS_Project2.Models.Models.Product
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_CommonLayout.cshtml";
+}
+
+<h2 class="text-info">Product informations</h2>
+
+   
+<div>
+    <form action="Search" method="post">
+        <div class="row">
+            <div class="form-group col-md-2">
+                @Html.ActionLink("Add new product", "Add", "Product", new { @class = "btn btn-primary" }) 
+            </div>
+
+            <div class="col-md-1 col-lg-offset-5" style="padding-top:6px;">
+                <label class="col-lg-offset-10" style="font-size:16px;">Name</label>
+            </div>
+
+            <div class="form-group col-md-3">
+                <input type="text" name="Name" class="form-control col-lg-offset-1" value="@Model.Name" placeholder="Search by name..." />
+            </div>
+
+            <div class="form-group col-md-1">
+                <input type="submit" name="submit" class="btn btn-info btn-block" value="Search" />
+            </div>
+        </div>
+    </form>
+</div>
+        
+    
+
+<div>
+    <table class="table table-bordered table-hover table-responsive">
+        <thead>
+            <tr class="alert-danger ">
+                <th>SL</th>
+                <th>Code</th>
+                <th>Name</th>
+                <th class="text-center">Reorder Level</th>
+                <th>Description</th>
+                <th>Category</th>
+                <th class="text-center">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{ var i = 1;}
+            @foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>@(i++)</td>
+                    <td>@product.Code</td>
+                    <td>@product.Name</td>
+                    <td class="text-center">@product.ReorderLevel</td>
+                    <td>@product.Description</td>
+                    <td>@product.Category.Name</td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = product.ID }, new { @class = "btn btn-primary col-lg-offset-3" }) 
+                        @Html.ActionLink("Delete", "Delete", new { id = product.ID }, new { @class = "btn btn-warning" })
+                    </td>
+                </tr>
+            }                                                           
+        </tbody>
+    </table>
+</div>

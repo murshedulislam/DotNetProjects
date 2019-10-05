@@ -1,0 +1,167 @@
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.Initial.resources
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.Initial.resources
+E:\TRF\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.Initial.resources
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.fgshdj.resources
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.fgshdj.resources
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.initial.resources
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.CatNmeAdded_inStockTble.resources
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.initial.resources
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.CatNmeAdded_inStockTble.resources
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.uhdsd.resources
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.initial.resources
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.CatNmeAdded_inStockTble.resources
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.uhdsd.resources
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.initial.resources
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.SalesModels_Added.resources
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.CustomerModel_Change.resources
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\SBMS_Project2.Models.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csprojAssemblyReference.cache
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.CopyComplete
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.Migrations.DB.resources
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2.DatabaseContext\obj\Debug\SBMS_Project2.DatabaseContext.csproj.GenerateResource.cache

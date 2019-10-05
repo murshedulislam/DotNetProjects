@@ -1,0 +1,58 @@
+﻿@model SBMS_Project2.Models.Models.Product
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_CommonLayout.cshtml";
+}
+
+<h2 class="alert alert-info">Delete</h2>
+<h3 class="text-danger">Are you sure want to delete this?</h3>
+<hr />
+
+<div>
+    <div>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Code)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Code)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.ReorderLevel)
+
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.ReorderLevel)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </dt>
+           <dd>
+               @Html.DisplayFor(model => model.CategoryId)
+           </dd>
+           
+
+        </dl>
+    </div>
+
+    <form method="post">
+        <div class="form-group col-md-offset-1">
+            <input type="submit" name="submit" class="btn btn-danger" value="Delete" />
+            @Html.ActionLink("Cancele", "Search", "Product", new { @class = "btn btn-info" })
+        </div>
+    </form>
+</div>

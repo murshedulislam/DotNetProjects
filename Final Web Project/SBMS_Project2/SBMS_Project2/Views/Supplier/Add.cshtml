@@ -1,0 +1,384 @@
+﻿@model SBMS_Project2.Models.Models.Supplier
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_CommonLayout.cshtml";
+}
+
+<h2>Add Supplier</h2>
+
+
+
+<form method="post">
+   
+    <div class="row">
+        <div class="col-md-8">
+            <div class="col-md-offset-6">
+                <input type="text" id="ProductId" style="display: none;">
+
+
+                <div class="form-group">
+                    @*<label for="code" style="padding:10px">Code</label>*@
+
+                    @Html.LabelFor(c => c.Code, null, new { @class = "control-label" })
+
+
+
+
+                    @*<input type="text" class="form-control" id="code" placeholder="Enter Code" name="Code">*@
+                    @Html.TextBoxFor(c => c.Code, null, new { @class = "form-control", placeholder = "Enter Code" })
+
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(c => c.Name, null, new { @class = "control-label" })
+                    @Html.TextBoxFor(c => c.Name, null, new { @class = "form-control", placeholder = "Enter Name" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(c => c.Address, null, new { @class = "control-label" })
+                    @Html.TextBoxFor(c => c.Address, null, new { @class = "form-control", placeholder = "Enter Address" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(c => c.Email, null, new { @class = "control-label" })
+                    @Html.TextBoxFor(c => c.Email, null, new { @class = "form-control", placeholder = "Enter Email" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(c => c.Contact, null, new { @class = "control-label" })
+                    @Html.TextBoxFor(c => c.Contact, null, new { @class = "form-control", placeholder = "Contact" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(c => c.ContactPerson, null, new { @class = "control-label" })
+                    @Html.TextBoxFor(c => c.ContactPerson, null, new { @class = "form-control", placeholder = "Contact Person" })
+                </div>
+
+
+                <div class="form-group">
+                    <input type="submit" class="form-control btn btn-success" id="save" value="Save" style="display: block;">
+                    <input type="button" class="form-control btn btn-info" id="search" value="Search" style="display: block;">
+                    <input type="button" class="form-control btn btn-success" id="update" value="Update" style="display: none;">
+                    <input type="button" class="form-control btn btn-success" id="delete" value="Delete" style="display: none;">
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+    <div class="row">
+        <div class="col">
+            <div>
+                <table class="table table-bordered table-striped table-hover">
+                    <thead>
+                        <tr>
+
+                            <th>SL</th>
+                            <th>Code</th>
+
+                            <th>Name</th>
+                            <th>Address</th>
+                            <th>Email</th>
+
+                            <th>Contact</th>
+                            <th>Contact Person</th>
+                            <th>Action</th>
+                        </tr>
+
+                    </thead>
+                    <tbody id="tbSupplier"></tbody>
+                    @{ int sl = 1;}
+                    @foreach (var supplier in Model.Suppliers)
+                    {
+                        <tr>
+                            <td>@(sl++)</td>
+                            <td>@supplier.Code</td>
+                            <td>@supplier.Name</td>
+                            <td>@supplier.Address</td>
+                            <td>@supplier.Email</td>
+                            <td>@supplier.Contact</td>
+                            <td>@supplier.ContactPerson</td>
+                            <td style="display: none;">@supplier.ID</td>
+                            <td>
+                                @Html.ActionLink("Edit", null, null, new { @class = "menuitem submenuheader", @Href = "#", @id = "edit" }) -
+                                @Html.ActionLink("Delete", null, null, new { @class = "menuitem submenuheader", @Href = "#", @id = "delete" })
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+        </div>
+
+    </div>
+</form>
+
+
+@section Scripts{
+    <script>
+        $('document').ready(function () {
+
+            var currentRow = null;
+            var row_index = null;
+
+            $(".table tbody").on('click', '#edit', function () {
+
+                currentRow = $(this).closest('tr');
+
+                row_index = $(this).closest("tr").index();
+
+                var productCode = currentRow.find('td:eq(1)').text();
+
+
+                var productName = currentRow.find('td:eq(2)').text();
+                var address = currentRow.find('td:eq(3)').text();
+                var email = currentRow.find('td:eq(4)').text();
+                var contact = currentRow.find('td:eq(5)').text();
+                var contactPerson = currentRow.find('td:eq(6)').text();
+                var productId = currentRow.find('td:eq(7)').text();
+
+
+                $("#Code").val(productCode);
+                $("#Name").val(productName);
+                $("#Address").val(address);
+                $("#Email").val(email);
+                $("#Contact").val(contact);
+                $("#ContactPerson").val(contactPerson);
+                $("#ProductId").val(productId);
+                $("#save").hide();
+                $("#search").hide();
+                $("#update").show();
+
+            });
+
+            $('#update').click(function () {
+
+                var id = parseInt($('#ProductId').val());
+                var code =  $("#Code").val();
+                var name = $("#Name").val();
+                var address = $("#Address").val();
+                var email = $("#Email").val();
+                var contact = parseInt($("#Contact").val());
+                var contactPerson = $("#ContactPerson").val();
+                var sl = 1;
+                $("tbody").children().remove();
+                var jsonData = { id: id, code: code, name: name, address: address, email: email, contact: contact, contactPerson: contactPerson };
+                    $.ajax({
+
+                        url: "/supplier/getsupplier",
+                        type: "POST",
+                        data: jsonData,
+                        success: (suppliers) => {
+
+                            $.each(suppliers, (index, supplier) => {
+                                var id = supplier.ID;
+                                var code = supplier.Code;
+                                var name = supplier.Name;
+                                var address = supplier.Address;
+                                var email = supplier.Email;
+                                var contact = supplier.Contact;
+                                var contactPerson = supplier.ContactPerson;
+
+                                var supplierRow = addNewRow(sl, id, code, name, address, email, contact, contactPerson);
+                                $("#tbSupplier").append(supplierRow);
+                                sl++;
+                            });
+
+                        },
+
+                        error: (response) => {
+
+                        }
+
+
+                    });
+
+                //var supplierRow = addNewRow(id, code, name, address, email, contact, contactPerson);
+
+
+                ////var no = currentRow;
+
+                //$("#tbSupplier").find(currentRow).replaceWith(supplierRow);
+                ////$("#tbPurchase").find(currentRow).replaceWith(purchaseRow);
+                $("#Code").val("");
+                 $("#Name").val("");
+                $("#Address").val("");
+                $("#Email").val("");
+                $("#Contact").val("");
+                $("#ContactPerson").val("");
+
+                $("#save").show();
+                $("#search").show();
+                $("#update").hide();
+
+            });
+
+            $('#search').click(function () {
+
+                var id = parseInt($('#ProductId').val());
+                var code = $("#Code").val();
+                var name = $("#Name").val();
+                var address = $("#Address").val();
+                var email = $("#Email").val();
+                var contact = parseInt($("#Contact").val());
+                var contactPerson = $("#ContactPerson").val();
+                var sl = 1;
+                $("tbody").children().remove();
+                var jsonData = { id: id, code: code, name: name, address: address, email: email, contact: contact, contactPerson: contactPerson };
+                $.ajax({
+
+                    url: "/supplier/searchsupplier",
+                    type: "POST",
+                    data: jsonData,
+                    success: (suppliers) => {
+
+                        $.each(suppliers, (index, supplier) => {
+                            var id = supplier.ID;
+                            var code = supplier.Code;
+                            var name = supplier.Name;
+                            var address = supplier.Address;
+                            var email = supplier.Email;
+                            var contact = supplier.Contact;
+                            var contactPerson = supplier.ContactPerson;
+
+                            var supplierRow = addNewRow(sl, id, code, name, address, email, contact, contactPerson);
+                            $("#tbSupplier").append(supplierRow);
+                            sl++;
+                        });
+
+                    },
+
+                    error: (response) => {
+
+                    }
+
+
+                });
+
+                //var supplierRow = addNewRow(id, code, name, address, email, contact, contactPerson);
+
+
+                ////var no = currentRow;
+
+                //$("#tbSupplier").find(currentRow).replaceWith(supplierRow);
+                ////$("#tbPurchase").find(currentRow).replaceWith(purchaseRow);
+
+
+            });
+
+            function addNewRow(sl, id, code, name, address, email, contact, contactPerson) {
+
+
+
+
+                var tr = "<tr>";
+                var serialcell = "<td>" + sl + "</td>";
+                var productIdCell = "<td style='display: none;'>" + id + "</td>";
+                var productCodeCell = "<td>" + code + "</td>";
+                var productNameCell = "<td>" + name + "</td>";
+
+                var edit = "<a href='#' id='edit' > Edit </a> - <a href='#' id='delete' > Delete </a>";
+                var addressCell = "<td>" + address + "</td>";
+                var emailCell = "<td>" + email + "</td>";
+                var contactCell = "<td>" + contact +"</td>";
+                var personCell = "<td>" + contactPerson +"</td>";
+                var editCell = "<td>" + edit + "</td>";
+
+
+                var trend = "</tr>";
+
+                var row = tr + serialcell + productCodeCell + productNameCell + addressCell + emailCell + contactCell + personCell + productIdCell + editCell +  trend;
+
+                return row;
+
+            }
+
+            $(".table tbody").on('click', '#delete', function () {
+
+                currentRow = $(this).closest('tr');
+
+                row_index = $(this).closest("tr").index();
+
+                var productCode = currentRow.find('td:eq(1)').text();
+
+
+                var productName = currentRow.find('td:eq(2)').text();
+                var address = currentRow.find('td:eq(3)').text();
+                var email = currentRow.find('td:eq(4)').text();
+                var contact = currentRow.find('td:eq(5)').text();
+                var contactPerson = currentRow.find('td:eq(6)').text();
+                var productId = currentRow.find('td:eq(7)').text();
+
+
+                $("#Code").val(productCode);
+                $("#Name").val(productName);
+                $("#Address").val(address);
+                $("#Email").val(email);
+                $("#Contact").val(contact);
+                $("#ContactPerson").val(contactPerson);
+                $("#ProductId").val(productId);
+                $("#save").hide();
+                $("#search").hide();
+                $("#update").hide();
+                $("#delete").show();
+
+            });
+
+            $('#delete').click(function () {
+
+                var id = parseInt($('#ProductId').val());
+
+
+                var sl = 1;
+                $("tbody").children().remove();
+                var jsonData = { id: id};
+                $.ajax({
+
+                    url: "/supplier/deletesupplier",
+                    type: "POST",
+                    data: jsonData,
+                    success: (suppliers) => {
+                        $.each(suppliers, (index, supplier) => {
+                            var id = supplier.ID;
+                            var code = supplier.Code;
+                            var name = supplier.Name;
+                            var address = supplier.Address;
+                            var email = supplier.Email;
+                            var contact = supplier.Contact;
+                            var contactPerson = supplier.ContactPerson;
+
+                            var supplierRow = addNewRow(sl, id, code, name, address, email, contact, contactPerson);
+                            $("#tbSupplier").append(supplierRow);
+                            sl++;
+                        });
+
+
+                    },
+
+                    error: (response) => {
+
+                    }
+
+
+                });
+
+                $("#Code").val("");
+                $("#Name").val("");
+                $("#Address").val("");
+                $("#Email").val("");
+                $("#Contact").val("");
+                $("#ContactPerson").val("");
+                $("#save").show();
+                $("#search").show();
+                $("#update").hide();
+                $("#delete").hide();
+
+            });
+        });
+
+    </script>
+
+}

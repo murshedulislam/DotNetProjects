@@ -1,0 +1,17 @@
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.CategorySetup.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.cache
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.CompanySetup.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.ItemSetup.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.StockOut.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.SearchSummary.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.SearchView.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.StockIn.resources
+C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Home.resources

@@ -1,0 +1,1065 @@
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project2\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+E:\Trf\Pro2\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\Update 1\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project 2\Main\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+D:\BITM_SEIP DotNet\Project\Project 2\SBMS\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+E:\TRF\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+E:\TRF\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+E:\TRF\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+E:\TRF\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+E:\TRF\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+E:\TRF\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\Pro2 Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\Test\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+C:\Users\GM Tarif\Desktop\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\AutoMapper.dll
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\AutoMapper.pdb
+D:\zzzzzzzzzzz\A\SBMS_Project2\SBMS_Project2\bin\AutoMapper.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.exe.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\csc.rsp
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.exe.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\csi.rsp
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.AppContext.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Collections.Immutable.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Console.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Compression.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.IO.Pipes.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Reflection.Metadata.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.AccessControl.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Claims.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.ValueTuple.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.exe.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\vbc.rsp
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\roslyn\VBCSCompiler.exe.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\AutoMapper.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\EntityFramework.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.BLL.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Models.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\AutoMapper.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\AutoMapper.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\EntityFramework.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\EntityFramework.SqlServer.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Razor.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Deployment.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Webpages.Razor.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Helpers.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\System.Web.Mvc.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.Repository.dll.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.pdb
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\bin\SBMS_Project2.DatabaseContext.dll.config
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csprojAssemblyReference.cache
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CoreCompileInputs.cache
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.csproj.CopyComplete
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.dll
+E:\DotNet_MVC\Final Web Project\SBMS_Project2\SBMS_Project2\obj\Debug\SBMS_Project2.pdb

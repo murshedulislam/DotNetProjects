@@ -1,0 +1,342 @@
+﻿@model SmallBusinessManagementSystemApp.Models.StockViewModel
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <form class="form-horizontal" method="post">
+        @using (Html.BeginForm("Stock", "Search"))
+        {
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="form-group">
+                            @*<label class="control-label col-sm-2" for="Address">Address:</label>*@
+                            @Html.LabelFor(c => c.ProductId, null, new { @class = "control-label col-md-2" })
+                            <div class="col-md-4">
+                                @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                                @Html.DropDownListFor(c => c.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Address">Address:</label>*@
+                        @Html.LabelFor(c => c.CategoryId, null, new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                            @Html.DropDownListFor(c => c.CategoryId, Model.CategoryList, "--Select--", new { @class = "form-control" })
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-5" for="Product">Product</label>*@
+                        @Html.LabelFor(c => c.StartDate, null, new { @class = "control-label col-md-4" })
+                        <div class="col-md-7">
+                            @*<input type="text" class="form-control" id="Product" name="Product" placeholder="Product">*@
+                            @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                            @Html.EditorFor(c => c.StartDate, new { @class = "form-control" })
+                            @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                            @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-5" for="Product">Product</label>*@
+                        @Html.LabelFor(c => c.EndDate, null, new { @class = "control-label col-md-4" })
+                        <div class="col-md-7">
+                            @*<input type="text" class="form-control" id="Product" name="Product" placeholder="Product">*@
+                            @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                            @Html.EditorFor(c => c.EndDate, new { @class = "form-control" })
+                            @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                            @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <div class="row" style="padding-top:35px">
+
+
+                <div class="col-md-3">
+                    <input type="checkbox" id="reorder" value="ReorderLevel">  Reorder Level <br>
+                </div>
+                <div class="col-md-3">
+                    <input type="checkbox" id="expired" value="Expired">  Expired<br>
+                </div>
+                <div class="col-md-3">
+                    <input type="checkbox" name="damage" value="Damage">  Damage<br>
+                </div>
+                <div class="col-md-3">
+                    <input type="checkbox" name="lost" value="Lost">  Lost<br>
+                </div>
+
+            </div>
+            <div class="row" style="padding:35px">
+                <div class="col">
+                    <div class="form-row">
+                        <div class="col-md-11">
+
+                        </div>
+                        <div class="col-md-1">
+                            <input type="button" id="search" value="Search" class="btn btn-success" />
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="form-row">
+                <div class="col-md-12">
+                    <div>
+                        <table class="table">
+                            <thead>
+                                <tr>
+
+                                    <th>SL</th>
+                                    <th>Code</th>
+
+                                    <th>Name</th>
+                                    <th>Category</th>
+                                    <th>Reorder Level</th>
+                                    <th>Expired Date</th>
+                                    <th>Expired Quantity</th>
+                                    <th>Opening Balance</th>
+                                    <th>In</th>
+                                    <th>Out</th>
+                                    <th>Closing Balance</th>
+                                </tr>
+
+                            </thead>
+                            <tbody id="tbSearch"></tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+
+        }
+    </form>
+</div>
+
+@section Scripts{
+    <script>
+        $("#document").ready(function () {
+            
+            $('#search').click(function () {
+                if ($('#reorder').is(":checked")) {
+                    var productId = $('#ProductId').val();
+                    var categoryId = $('#CategoryId').val();
+                    var startDate = $("#StartDate").val();
+                    var endDate = $("#EndDate").val();
+
+                    var sl = 1;
+                    $("tbody").children().remove();
+                    var jsonData = {
+                        productId: productId,
+                        categoryId: categoryId,
+                        startDate: startDate,
+                        endDate: endDate
+                    };
+                    $.ajax({
+                        url: "/stock/getnewproduct",
+                        type: "POST",
+                        data: jsonData,
+                        success: (resultList) => {
+
+                            $.each(resultList,
+                                (index, result) => {
+                                    var code = result.Code;
+                                    var name = result.Name;
+                                    var category = result.Category;
+                                    var reorder = result.Reorder;
+                                    var date = result.Date;
+                                    var expire = new Date(parseInt(date.substr(6)));
+                                    var quantity = "";
+                                    var opening = result.OpeningBalance;
+                                    var ins = result.In;
+                                    var outs = result.Out;
+                                    var closing = result.ClosingBalance;
+                                    var supplierRow = addRow(sl,
+                                        code,
+                                        name,
+                                        category,
+                                        reorder,
+                                        expire,
+                                        quantity,
+                                        opening,
+                                        ins,
+                                        outs,
+                                        closing);
+                                    $("#tbSearch").append(supplierRow);
+                                    sl++;
+                                });
+
+                        },
+
+                        error: (response) => {
+
+                        }
+
+
+                    });
+
+
+                }
+
+                else if ($('#expired').is(":checked")) {
+                    var productId = $('#ProductId').val();
+                    var categoryId = $('#CategoryId').val();
+                    var startDate = $("#StartDate").val();
+                    var endDate = $("#EndDate").val();
+
+                    var sl = 1;
+                    $("tbody").children().remove();
+                    var jsonData = {
+                        productId: productId,
+                        categoryId: categoryId,
+                        startDate: startDate,
+                        endDate: endDate
+                    };
+                    $.ajax({
+                        url: "/stock/getexpiredproduct",
+                        type: "POST",
+                        data: jsonData,
+                        success: (finalList) => {
+
+                            $.each(finalList,
+                                (index, result) => {
+                                    var code = result.Code;
+                                    var name = result.Name;
+                                    var category = result.Category;
+                                    var reorder = result.Reorder;
+                                    var date = result.Date;
+                                    var expire = new Date(parseInt(date.substr(6)));
+                                    var opening = "";
+                                    var quantity = result.OpeningBalance;
+                                    var ins = "";
+                                    var outs = "";
+                                    var closing = "";
+                                    var supplierRow = addRow(sl,
+                                        code,
+                                        name,
+                                        category,
+                                        reorder,
+                                        expire,
+                                        quantity,
+                                        opening,
+                                        ins,
+                                        outs,
+                                        closing);
+                                    $("#tbSearch").append(supplierRow);
+                                    sl++;
+                                });
+
+                        },
+
+                        error: (response) => {
+
+                        }
+
+
+                    });
+
+
+                }
+
+                else {
+                    var productId = $('#ProductId').val();
+                    var categoryId = $('#CategoryId').val();
+                    var startDate = $("#StartDate").val();
+                    var endDate = $("#EndDate").val();
+
+                    var sl = 1;
+                    $("tbody").children().remove();
+                    var jsonData = { productId: productId, categoryId: categoryId, startDate: startDate, endDate: endDate };
+                    $.ajax({
+
+                        url: "/stock/getproduct",
+                        type: "POST",
+                        data: jsonData,
+                        success: (resultList) => {
+
+                            $.each(resultList, (index, result) => {
+                                var code = result.Code;
+                                var name = result.Name;
+                                var category = result.Category;
+                                var reorder = result.Reorder;
+                                var date = result.Date;
+                                var expire = new Date(parseInt(date.substr(6)));
+                                var quantity = "";
+                                var opening = result.OpeningBalance;
+                                var ins = result.In;
+                                var outs = result.Out;
+                                var closing = result.ClosingBalance;
+                                var supplierRow = addRow(sl, code, name, category, reorder, expire, quantity, opening, ins, outs, closing);
+                                $("#tbSearch").append(supplierRow);
+                                sl++;
+                            });
+
+                        },
+
+                        error: (response) => {
+
+                        }
+
+
+                    });
+
+
+
+
+                }
+
+            });
+           
+
+            function addRow(sl, code, name, category, reorder, expire, quantity, opening, ins, outs, closing) {
+
+
+
+
+
+                var tr = "<tr>";
+                var serialcell = "<td>" + sl + "</td>";
+                var productCodeCell = "<td>" + code + "</td>";
+                var productNameCell = "<td>" + name + "</td>";
+
+
+                var categoryCell = "<td>" + category + "</td>";
+                var cPriceCell = "<td>" + reorder + "</td>";
+                var tPriceCell = "<td>" + expire + "</td>";
+                var expQuantity = "<td>" + quantity + "</td>";
+                var profitCell = "<td>" + opening + "</td>";
+
+                var profitCell1 = "<td>" + ins+ "</td>";
+                var profitCell2 = "<td>" + outs + "</td>";
+                var profitCell3 = "<td>" + closing + "</td>";
+                var trend = "</tr>";
+
+                var row = tr + serialcell + productCodeCell + productNameCell + categoryCell + cPriceCell + tPriceCell + expQuantity + profitCell + profitCell1 + profitCell2 + profitCell3 + trend;
+
+                return row;
+            }
+
+        });
+    </script>
+    
+    
+    
+    
+    }

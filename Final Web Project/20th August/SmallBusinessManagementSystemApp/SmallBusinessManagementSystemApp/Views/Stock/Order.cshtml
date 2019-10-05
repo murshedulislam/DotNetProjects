@@ -1,0 +1,220 @@
+﻿@model SmallBusinessManagementSystemApp.Models.StockViewModel
+@{
+    ViewBag.Title = "Order";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <form class="form-horizontal" method="post">
+        @using (Html.BeginForm("Reporting", "Show"))
+        {
+        <div class="panel">
+            <div class="panel-heading">Product</div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label col-sm-5" for="Code">Code</label>
+                            @*@Html.LabelFor(c => c.StartDate, null, new { @class = "control-label col-md-4" })*@
+                            <div class="col-md-7">
+                                <input type="text" class="form-control" id="Code" name="Code" placeholder="Code">
+                                @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                                @*@Html.EditorFor(c => c.StartDate, new { @class = "form-control" })*@
+                                @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                                @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label col-md-5" for="Name">Name</label>
+                            @*@Html.LabelFor(c => c.EndDate, null, new { @class = "control-label col-md-4" })*@
+                            <div class="col-md-7">
+                                <input type="text" class="form-control" id="Name" name="Name" placeholder="Name">
+                                @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                                @*@Html.EditorFor(c => c.EndDate, new { @class = "form-control" })*@
+                                @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                                @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label col-sm-5" for="Category">Category</label>
+                            @*@Html.LabelFor(c => c.StartDate, null, new { @class = "control-label col-md-4" })*@
+                            <div class="col-md-7">
+                                <input type="text" class="form-control" id="Category" name="Category" placeholder="Category">
+                                @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                                @*@Html.EditorFor(c => c.StartDate, new { @class = "form-control" })*@
+                                @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                                @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label col-sm-5" for="ReorderLevel">Reorder Level</label>
+                            @*@Html.LabelFor(c => c.StartDate, null, new { @class = "control-label col-md-4" })*@
+                            <div class="col-md-7">
+                                <input type="text" class="form-control" id="ReorderLevel" name="ReorderLevel" placeholder="ReorderLevel">
+                                @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                                @*@Html.EditorFor(c => c.StartDate, new { @class = "form-control" })*@
+                                @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                                @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md-offset-6 col-md-6">
+                        <div class="form-group">
+                            <label class="control-label col-md-5" for="AvailableQuantity">Available Quantity</label>
+                            @*@Html.LabelFor(c => c.StartDate, null, new { @class = "control-label col-md-4" })*@
+                            <div class="col-md-7">
+                                <input type="text" class="form-control" id="AvailableQuantity" name="AvailableQuantity" placeholder="AvailableQuantity">
+                                @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                                @*@Html.EditorFor(c => c.StartDate, new { @class = "form-control" })*@
+                                @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                                @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+            </div>
+
+        <div class="panel">
+            <div class="panel-heading">Order</div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @*<label class="control-label col-md-2" for="ProductID">Product</label>*@
+                            @*@Html.LabelFor(c => c.Purchase.ProductId, null, new { @class = "control-label col-md-2" })*@
+                            @Html.Label("SupplierId", null, new { @class = "control-label col-md-6" })
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" id="Address" name="Address" placeholder="Address">
+
+                                @*@Html.DropDownListFor(c => c.Purchase.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })*@
+                                @*@Html.DropDownList("SupplierId", Model.SupplierList, "--Select--", new { @class = "form-control" })*@
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @*<label class="control-label col-md-2" for="ProductID">Product</label>*@
+                            @*@Html.LabelFor(c => c.Purchase.ProductId, null, new { @class = "control-label col-md-2" })*@
+                            @Html.Label("LastCP", null, new { @class = "control-label col-md-6" })
+                            <div class="col-md-6">
+                                @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                                @*@Html.DropDownListFor(c => c.Purchase.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })*@
+                                @Html.TextBox("LastCP", null, new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @*<label class="control-label col-md-2" for="ProductID">Product</label>*@
+                            @*@Html.LabelFor(c => c.Purchase.ProductId, null, new { @class = "control-label col-md-2" })*@
+                            @Html.LabelFor(c => c.OrderDate, null, new { @class = "control-label col-md-6" })
+                            <div class="col-md-6">
+                                @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                                @*@Html.DropDownListFor(c => c.Purchase.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })*@
+                                @Html.EditorFor(c => c.OrderDate, null, new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @*<label class="control-label col-md-2" for="ProductID">Product</label>*@
+                            @*@Html.LabelFor(c => c.Purchase.ProductId, null, new { @class = "control-label col-md-2" })*@
+                            @Html.LabelFor(c => c.Quantity, null, new { @class = "control-label col-md-6" })
+                            <div class="col-md-6">
+                                @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                                @*@Html.DropDownListFor(c => c.Purchase.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })*@
+                                @Html.TextBoxFor(c => c.Quantity, null, new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @*<label class="control-label col-md-2" for="ProductID">Product</label>*@
+                            @*@Html.LabelFor(c => c.Purchase.ProductId, null, new { @class = "control-label col-md-2" })*@
+                            @Html.LabelFor(c => c.DeliveryDate, null, new { @class = "control-label col-md-6" })
+                            <div class="col-md-6">
+                                @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                                @*@Html.DropDownListFor(c => c.Purchase.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })*@
+                                @Html.EditorFor(c => c.DeliveryDate, null, new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @*<label class="control-label col-md-2" for="ProductID">Product</label>*@
+                            @*@Html.LabelFor(c => c.Purchase.ProductId, null, new { @class = "control-label col-md-2" })*@
+                            @Html.LabelFor(c => c.TotalPrice, null, new { @class = "control-label col-md-6" })
+                            <div class="col-md-6">
+                                @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                                @*@Html.DropDownListFor(c => c.Purchase.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })*@
+                                @Html.TextBoxFor(c => c.TotalPrice, null, new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            @*<label class="control-label col-md-2" for="ProductID">Product</label>*@
+                            @*@Html.LabelFor(c => c.Purchase.ProductId, null, new { @class = "control-label col-md-2" })*@
+                            @Html.LabelFor(c => c.Remarks, null, new { @class = "control-label col-md-4" })
+                            <div class="col-md-8">
+                                @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                                @*@Html.DropDownListFor(c => c.Purchase.ProductId, Model.ProductList, "--Select--", new { @class = "form-control" })*@
+                                @Html.TextBoxFor(c => c.Remarks, null, new { @class = "form-control" })
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <div class="col-md-11">
+
+                            </div>
+                            <div class="col-md-1">
+                                <input type="button" id="save" value="Save" class="btn btn-success" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                }
+</form>
+</div>
+

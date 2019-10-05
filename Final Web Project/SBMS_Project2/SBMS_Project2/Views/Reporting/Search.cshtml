@@ -1,0 +1,194 @@
+﻿@model SBMS_Project2.Models.ReportingViewModel
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_CommonLayout.cshtml";
+}
+
+<h2>Purchase Report</h2>
+<hr />
+
+<div class="container">
+    <form class="form-horizontal" method="post">
+        @using (Html.BeginForm("Reporting", "Search"))
+        {
+            <div class="form-row">
+                @*<div class="col-md-5">*@
+                <div class="form-group col-md-5">
+                    @*<label class="control-label col-sm-2" for="Name">Name:</label>*@
+                    @Html.LabelFor(c => c.StartDate, null, new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @*<input type="text" class="form-control" id="Name" name="Name" placeholder="Name">*@
+                        @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                        @Html.EditorFor(c => c.StartDate, new { @class = "form-control" })
+                        @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                        @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                    </div>
+                </div>
+                @*</div>*@
+                @*<div class="col-md-5">*@
+                <div class="form-group col-md-5">
+                    @*<label class="control-label col-sm-2" for="Name">Name:</label>*@
+                    @Html.LabelFor(c => c.EndDate, null, new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @*<input type="text" class="form-control" id="Name" name="Name" placeholder="Name">*@
+                        @*@Html.TextBoxFor(c => c.Date, null, new { @class = "form-control", placeholder = "Date" })*@
+                        @Html.EditorFor(c => c.EndDate, new { @class = "form-control" })
+                        @*@Html.ValidationMessageFor(c => c.Date, null, new { @class = "text-danger" })*@
+                        @*@Html.EditorFor(c => c.Purchase.Date, new { htmlAttributes = new { @class = "datepicker" } })*@
+                    </div>
+                </div>
+                @*</div>*@
+                @*<div class="col-md-1">*@
+                <div class="form-group col-md-1">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="button" id="search" value="Search" class="btn btn-success" />
+                    </div>
+                </div>
+                @*</div>*@
+
+
+            </div>
+            <div class="form-row">
+                <div class="col-md-12">
+                    <div>
+                        <table class="table">
+                            <thead>
+                                <tr>
+
+                                    <th>SL</th>
+                                    <th>Code</th>
+
+                                    <th>Name</th>
+                                    <th>Category</th>
+                                    <th>CP (Tk)</th>
+                                    <th>MRP (Tk)</th>
+                                    <th>Profit (Tk)</th>
+                                </tr>
+
+                            </thead>
+                            <tbody id="tbReport"></tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        }
+    </form>
+</div>
+
+@section Scripts{
+
+    <script>
+        $('document').ready(function () {
+
+            $("#search").click(() => {
+
+                var startDate = $("#StartDate").val();
+                var endDate = $("#EndDate").val();
+                var jsonData = { startDate: startDate, endDate: endDate };
+                var out = 0;
+                var sl = 1;
+                $("tbody").children().remove();
+                $.ajax({
+
+                    url: "/reporting/getremainingproducts",
+                    type: "POST",
+                    data: jsonData,
+                    success: (saleList) => {
+
+
+                        $.each(saleList, (index, product) => {
+                            var id = product.Id;
+
+
+                            var code = product.Codes;
+                            var pname = product.Names;
+                            var cp = product.CostPrice;
+                            var mrp = product.MRP;
+                            var profit = product.Profit;
+                            var cname = product.Category;
+
+                            var reportRow = addRow(sl, code, pname, cname, cp, mrp, profit);
+                            $('#tbReport').append(reportRow);
+                            sl++;
+
+
+
+
+                        }
+                        );
+
+                    },
+
+                    error: (response) => {
+
+                    }
+
+
+                });
+            });
+
+            //function getProductInfo(id) {
+
+            //    var code = null;
+            //    var pname = null;
+            //    var unit = 0;
+            //    var cname = null;
+            //    var jsonData = { id: id };
+            //    $.ajax({
+
+            //        url: "/reporting/getproductdetails",
+            //        type: "POST",
+            //        data: jsonData,
+            //        success: (dynamicList) => {
+
+            //            $.each(dynamicList, (index, sale) => {
+            //               code = sale.Codes;
+            //               pname = sale.Names;
+            //               unit = sale.Unit;
+            //               cname = sale.Category;
+            //            });
+            //        },
+
+            //        error: (response) => {
+
+            //        }
+
+
+            //    });
+
+            //    return { Name: pname, Code: code, Category: cname, Unit: unit };
+            //}
+
+            function addRow(sl, code, pname, cname, cp, mrp, profit) {
+
+
+
+
+
+                var tr = "<tr>";
+                var serialcell = "<td>" + sl + "</td>";
+                var productCodeCell = "<td>" + code + "</td>";
+                var productNameCell = "<td>" + pname + "</td>";
+
+
+                var categoryCell = "<td>" + cname + "</td>";
+                var cPriceCell = "<td>" + cp + "</td>";
+                var tPriceCell = "<td>" + mrp + "</td>";
+
+                var profitCell = "<td>" + profit + "</td>";
+
+
+                var trend = "</tr>";
+
+                var row = tr + serialcell + productCodeCell + productNameCell + categoryCell + cPriceCell + tPriceCell + profitCell + trend;
+
+                return row;
+            }
+
+        });
+    </script>
+}
+
